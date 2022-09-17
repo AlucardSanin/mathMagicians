@@ -4,6 +4,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7498b55c-1edb-4319-947c-f4cd80bc36c8/deploy-status)](https://app.netlify.com/sites/admirable-elf-a5f913/deploys)
 
 # Math Magicians App
 > A Single Page App built with React that allows users to access a calculator, make simple operations and read random math quotes.
@@ -18,7 +19,7 @@
 
 ## Live Demo :arrow_forward:
 
-Link will be displayed here soon...
+ [Click Here](https://admirable-elf-a5f913.netlify.app/)
 
 ## Set Up Guide :page_facing_up: 
 
@@ -36,7 +37,7 @@ Link will be displayed here soon...
 
 ## Author :writing_hand: 
 
-:men_technologist:  **David Isea**
+:man_technologist:  **David Isea**
 
 - GitHub: [@AlucardSanin](https://github.com/AlucardSanin)
 - Twitter: [@cadivisea](https://twitter.com/cadivisea)
