@@ -16,10 +16,6 @@
 - **Webpack:** Bundler form JavaScript files for usage in a browser.
 - **REACT JS:** JS library used for the basic structure.
 
-## Live Demo :arrow_forward:
-
-Link will be displayed here soon...
-
 ## Set Up Guide :page_facing_up: 
 
 1. Use the following link for "$ git clone" the [repo](https://github.com/AlucardSanin/mathMagicians) and cd mathMagicians
